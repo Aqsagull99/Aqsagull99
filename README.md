@@ -1,46 +1,10 @@
-![logo](https://github.com/Aqsagull99/Aqsagull99/blob/main/The%20Future%20Is%20here.gif)
-<h1 align="center">Hi 👋, I'm Aqsagull99</h1>
-<h3 align="center"🤞>A passionate Web developer from pakistan</h3>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"width="300px"height="200"align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"width="500px"height="500">
+<div><a href="https://aqsa-gull-official.vercel.app/"><img src="assets/profile/r1-1.png" width="100%" align="top" alt="Aqsa Gull. Full Stack Developer, DevOps Engineer, AI Automation Engineer, Agentic AI Developer. Building intelligent, scalable and user-focused solutions that bridge technology and real-world needs."></a></div>
+<div><img src="assets/profile/r2-1.png" width="7.9208%" align="top" alt=""><a href="https://aqsa-gull-official.vercel.app/contact"><img src="assets/profile/r2-2.png" width="17.6568%" align="top" alt="Let's Build Together"></a><img src="assets/profile/r2-3.png" width="2.2277%" align="top" alt=""><a href="https://github.com/Aqsagull99"><img src="assets/profile/r2-4.png" width="4.9505%" align="top" alt="GitHub"></a><a href="https://linkedin.com/in/aqsa-gullofficial99"><img src="assets/profile/r2-5.png" width="4.9505%" align="top" alt="LinkedIn"></a><a href="mailto:aqsagull331@gmail.com"><img src="assets/profile/r2-6.png" width="4.868%" align="top" alt="Email"></a><a href="https://aqsa-gull-official.vercel.app/"><img src="assets/profile/r2-7.png" width="4.868%" align="top" alt="Portfolio"></a><a href="https://aqsa-gull-official.vercel.app/"><img src="assets/profile/r2-8.png" width="52.5577%" align="top" alt=""></a></div>
+<div><a href="https://aqsa-gull-official.vercel.app/"><img src="assets/profile/r3-1.png" width="44.3894%" align="top" alt="About Me. I'm a passionate developer who loves turning ideas into powerful digital solutions, focused on scalable, efficient and user-friendly products."></a><a href="https://aqsa-gull-official.vercel.app/expertise"><img src="assets/profile/r3-2.png" width="55.6106%" align="top" alt="Tech Stack: Next.js, React, TypeScript, Python, FastAPI, Docker, Kubernetes, Supabase, PostgreSQL, Tailwind CSS, Vercel, OpenAI."></a></div>
+<div><a href="https://aqsa-gull-official.vercel.app/#projects"><img src="assets/profile/r4-1.png" width="26.0726%" align="top" alt="Web Applications. Modern, fast and scalable web apps."></a><a href="https://aqsa-gull-official.vercel.app/#projects"><img src="assets/profile/r4-2.png" width="24.0099%" align="top" alt="AI Automation. Smart workflows to save time and boost productivity."></a><a href="https://github.com/Aqsagull99/Personal-Digital-FTE-Agent-Hackathon"><img src="assets/profile/r4-3.png" width="24.0099%" align="top" alt="AI Agents. Task-driven AI agents for real business needs."></a><a href="https://github.com/Aqsagull99/hackathon-2-todo-app"><img src="assets/profile/r4-4.png" width="25.9076%" align="top" alt="DevOps and Cloud. Reliable deployment and scalable infrastructure."></a></div>
+<div><a href="https://github.com/Aqsagull99?tab=repositories"><img src="assets/profile/r5-1.png" width="100%" align="top" alt="Featured Projects. View all projects."></a></div>
+<div><a href="https://aqsa-gull-official.vercel.app/#projects"><img src="assets/profile/r6-1.png" width="26.6502%" align="top" alt="FS-ERP Accounting. Modern ERP with Supabase and Next.js for smart business management."></a><a href="https://luxe-ecommerce-website.vercel.app"><img src="assets/profile/r6-2.png" width="23.5149%" align="top" alt="Luxe E-Commerce. A full-featured home decor store with cart, wishlist and admin."></a><a href="https://aqsa-gull-official.vercel.app/#projects"><img src="assets/profile/r6-3.png" width="23.7624%" align="top" alt="Email Automation. AI cold-email automation for real estate leads, built with FastAPI."></a><a href="https://aqsa-gull-official.vercel.app/#projects"><img src="assets/profile/r6-4.png" width="26.0725%" align="top" alt="Tech Force Pakistan. A platform for tech education and skill development."></a></div>
+<div><a href="https://github.com/Aqsagull99?tab=repositories&amp;q=agent"><img src="assets/profile/r7-1.png" width="43.3168%" align="top" alt="AI and Agentic Work. Building AI systems that don't just generate responses, but connect reasoning, tools and actions. Explore AI projects."></a><a href="https://github.com/Aqsagull99"><img src="assets/profile/r7-2.png" width="23.3498%" align="top" alt="My Engineering Philosophy. Build with purpose. Automate with intelligence. Keep learning, always."></a><a href="https://github.com/Aqsagull99?tab=repositories"><img src="assets/profile/r7-3.png" width="33.3334%" align="top" alt="GitHub Activity."></a></div>
+<div><a href="https://aqsa-gull-official.vercel.app/contact"><img src="assets/profile/r8-1.png" width="80.033%" align="top" alt="Let's Connect. Open to work on exciting projects, collaborations and opportunities. Available for full-stack development, AI automation, AI agents and custom software."></a><a href="https://github.com/Aqsagull99"><img src="assets/profile/r8-2.png" width="3.6304%" align="top" alt="GitHub"></a><a href="https://linkedin.com/in/aqsa-gullofficial99"><img src="assets/profile/r8-3.png" width="3.3828%" align="top" alt="LinkedIn"></a><a href="https://instagram.com/aqsa_gull99"><img src="assets/profile/r8-4.png" width="3.3828%" align="top" alt="Instagram"></a><a href="mailto:aqsagull331@gmail.com"><img src="assets/profile/r8-5.png" width="3.3828%" align="top" alt="Email"></a><a href="https://aqsa-gull-official.vercel.app/"><img src="assets/profile/r8-6.png" width="6.1882%" align="top" alt="Portfolio"></a></div>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsagull99&label=Profile%20views&color=0e75b6&style=flat" alt="aqsagull99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsagull99" alt="aqsagull99" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/digital destity" target="blank"><img src="https://img.shields.io/twitter/follow/digital destity?logo=twitter&style=for-the-badge" alt="digital destity" /></a> </p>
-
-- 🔭 I’m currently working on **Web designer**
-
-- 🌱 I’m currently learning **Full stack, React ts and c++**
-
-- 👯 I’m looking to collaborate on **Cloud Generative Ai**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Aqsagull99](https://github.com/Aqsagull99)
- 
-
-- 💬 Ask me about **web developement, C & C++**
-
-- eb **aqsabravegirl3@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/aqsa-gullofficial99](linkedin.com/in/aqsa-gullofficial99)
-
-- ⚡ Fun fact **i think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/digital destity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="digital destity" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aqsa gull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqsa gull" height="30" width="40" /></a>
-<a href="https://instagram.com/digital destity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="digital destity" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqsagull99&show_icons=true&locale=en&layout=compact" alt="aqsagull99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqsagull99&show_icons=true&locale=en" alt="aqsagull99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqsagull99&" alt="aqsagull99" /></p>
+<p align="center"><a href="https://aqsa-gull-official.vercel.app/">Portfolio</a> · <a href="https://linkedin.com/in/aqsa-gullofficial99">LinkedIn</a> · <a href="https://instagram.com/aqsa_gull99">Instagram</a> · <a href="mailto:aqsagull331@gmail.com">aqsagull331@gmail.com</a></p>
